@@ -5,12 +5,6 @@ Jasmine Awaya's ePortfolio
 Code Review 
 
 Artifacts
-
-Narratives 
-
-Professional Self Assessment
-
-
 <details>
 <summary>My Enhancements</summary>
 
@@ -21,3 +15,10 @@ Professional Self Assessment
 | Databases                     | Deleting rows from database using selected value using python   |
 
 </details>
+
+
+Narratives 
+
+Professional Self Assessment
+
+
