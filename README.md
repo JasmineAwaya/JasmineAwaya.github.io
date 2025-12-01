@@ -18,9 +18,12 @@ JasmineAwaya.github.io
 
 
 ### Narratives 
-Below are the links to access the narratives for the enhancements. 
+Below are the links to access the narratives for my enhancements. 
+- [Narrative for Enhancement 1](https://github.com/JasmineAwaya/JasmineAwaya.github.io/blob/main/CS499_Narrative1.docx)
+- [Narrative for Enhancement 2](https://github.com/JasmineAwaya/JasmineAwaya.github.io/blob/main/CS499_Narrative2.docx)
+- [Narrative for Enhancement 3](https://github.com/JasmineAwaya/JasmineAwaya.github.io/blob/main/CS499_Narrative3.docx)
 
-[Narrative for Enhancement 3](https://github.com/JasmineAwaya/JasmineAwaya.github.io/blob/main/CS499_Narrative3.docx)
+* * Please select "View RAW" to download documents
 ### Professional Self Assessment
 
 
