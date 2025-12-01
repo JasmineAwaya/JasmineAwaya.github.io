@@ -1,10 +1,10 @@
-# JasmineAwaya.github.io
+JasmineAwaya.github.io
 
-#Jasmine Awaya's ePortfolio 
+# Jasmine Awaya's ePortfolio 
 
-Code Review 
+### Code Review 
 
-Artifacts
+### Artifacts
 <details>
 <summary>My Enhancements</summary>
 
@@ -17,8 +17,8 @@ Artifacts
 </details>
 
 
-Narratives 
+### Narratives 
 
-Professional Self Assessment
+### Professional Self Assessment
 
 
