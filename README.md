@@ -12,7 +12,7 @@ JasmineAwaya.github.io
 |------------------------------:|-----------------------------------------------------------------|
 | Software Design & Engineering | Adding coral texture and adding blue lighting to 3D visual scene|
 | [Algorithms & Data Structures](https://youtu.be/MJKiiTcDhY4)| Adding and AES encryption to a full stack development           |
-| Databases                     | Deleting rows from database using selected value using python   |
+| [Databases](https://youtu.be/exdUHRgtbxI)                     | Deleting rows from database using selected value using python   |
 
 </details>
 
