@@ -1,6 +1,16 @@
 # JasmineAwaya.github.io
 
 Jasmine Awaya's ePortfolio 
+
+Code Review 
+
+Artifacts
+
+Narratives 
+
+Professional Self Assessment
+
+
 <details>
 <summary>My Enhancements</summary>
 
