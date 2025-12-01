@@ -11,7 +11,7 @@ JasmineAwaya.github.io
 | Enhancement Categories        | Enhancement Description                                         |
 |------------------------------:|-----------------------------------------------------------------|
 | Software Design & Engineering | Adding coral texture and adding blue lighting to 3D visual scene|
-| Algorithms & Data Structures  | Adding and AES encryption to a full stack development           |
+| [Algorithms & Data Structures](https://youtu.be/MJKiiTcDhY4)| Adding and AES encryption to a full stack development           |
 | Databases                     | Deleting rows from database using selected value using python   |
 
 </details>
