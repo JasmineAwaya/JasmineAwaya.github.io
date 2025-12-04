@@ -16,7 +16,7 @@
 |------------------------------:|-----------------------------------------------------------------|
 | [Software Design & Engineering](https://github.com/JasmineAwaya/JasmineAwaya.github.io/releases/tag/Artifact_1) | Adding coral texture and adding blue lighting to 3D visual scene|
 | [Algorithms & Data Structures](https://github.com/JasmineAwaya/JasmineAwaya.github.io/releases/tag/Artifact_2)| Adding and AES encryption to a full stack development           |
-| [Databases]                     | Deleting rows from database using selected value using python   |
+| [Databases](https://github.com/JasmineAwaya/JasmineAwaya.github.io/releases/tag/Artifact_3) | Deleting rows from database using selected value using python   |
 
 </details>
 
