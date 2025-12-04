@@ -14,7 +14,7 @@
 
 | Enhancement Categories        | Enhancement Description                                         |
 |------------------------------:|-----------------------------------------------------------------|
-| Software Design & Engineering | Adding coral texture and adding blue lighting to 3D visual scene|
+| [Software Design & Engineering](https://github.com/JasmineAwaya/JasmineAwaya.github.io/releases/tag/Artifacts) | Adding coral texture and adding blue lighting to 3D visual scene|
 | [Algorithms & Data Structures]| Adding and AES encryption to a full stack development           |
 | [Databases]                     | Deleting rows from database using selected value using python   |
 
