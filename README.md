@@ -1,7 +1,9 @@
 
 # Jasmine Awaya's ePortfolio 
 ## Website: [https://JasmineAwaya.github.io](url)
+
 ### Professional Self-Assessment
+
     Completing my work throughout this course has challenged me to stretch my thinking beyond my previous knowledge of computer science. Coming into this program I had introductory knowledge of programming languages and methods. However, I didn’t feel equipped to provide any application outside of my assignments. Course work in this program was broken down into smaller more manageable tasks often times focusing on one skill set per assignment. An example of this was in DAD 220, Project 1. Each step of the assignment helped and guided me to filtering a database in Codio. The different scenarios and specific requirements helped me to understand the process and what functions do. In the future I can replace the example database with one that is pertaining to my career and use similar functions to sort and pull records as well as add and delete them. My artifacts all together demonstrated knowledge in three main categories which were Software Design and Engineering, Algorithms and Data Structures, and Databases. These categories allowed for a broad scope of artifacts we could choose from, yet it was specific enough to narrow down which artifacts would be used. Enhancing these artifacts, I was able  show my skills in adjusting textures and lighting to a 3D visualization, to the other was applying security to a full-stack development and lastly, manipulating and sorting through large databases. All three of these artifacts allowed me to demonstrate my knowledge which can be applied to any type of analytical career, especially one in environmental science. 
 
 ### Code Review 
